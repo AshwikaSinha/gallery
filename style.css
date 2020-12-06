@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+    background-color: aquamarine;
+    
+}
+
+.container
+{
+    text-align: center;
+}
+#myCarousel
+{
+    background-color: red;
+}
+
+#myCarousel img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p
+{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color : white;
+    font-size: 20px;
+}
+
+#myCarouse2
+{
+    background-color: #b5d0d4;
+}
+
+#myCarouse2 img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+#images{
+    height:200px;
+    width:400px;
+        
+}
